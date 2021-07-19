@@ -1,4 +1,4 @@
-- 👋🏾  Hi, I’m @testerfromleic
+- 👋🏾   Hi, I’m @testerfromleic
 - 🧐  I’m interested in software quality, people and systems
 - 🌱  I’m currently learning to code in Ruby
 - 💞️  I’m looking to collaborate on anything that will help me learn how to code!
