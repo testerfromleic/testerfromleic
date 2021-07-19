@@ -1,5 +1,5 @@
 - 👋🏾  Hi, I’m @testerfromleic
-- 🧐  I’m interested in software quality, people and systems
+- 🧐  I’m interested in software quality, coaching and systems
 - 🌱  I’m currently learning how to code (in Ruby) and Git
 - 💞️  I’m looking to collaborate on anything that will help me learn how to code!
 - 📫  How to reach me? Twitter is probably the easiest https://twitter.com/TesterFromLeic
